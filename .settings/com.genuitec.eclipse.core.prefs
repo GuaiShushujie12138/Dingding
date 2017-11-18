@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+validator.Checked=WebRoot/WEB-INF/bookshop,WebRoot/js/imgSwitch.js,WebRoot/js/imgSwitch.min.js,WebRoot/js/jquery-1.11.0.min.js,WebRoot/js/jquery-1.8.3.min.js
+validator.Revalidate=true
+validator.Unchecked=

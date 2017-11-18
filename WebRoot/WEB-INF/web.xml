@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.0"
+    xmlns="http://java.sun.com/xml/ns/javaee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ToIndex</servlet-name>
+    <servlet-class>com.guaishushu.control.ToIndex</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ToLogin</servlet-name>
+    <servlet-class>com.guaishushu.control.ToLogin</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UserCheck</servlet-name>
+    <servlet-class>com.guaishushu.control.UserCheck</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ToRegister</servlet-name>
+    <servlet-class>com.guaishushu.control.ToRegister</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ToShopCar</servlet-name>
+    <servlet-class>com.guaishushu.control.ToShopCar</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ToMyInfo</servlet-name>
+    <servlet-class>com.guaishushu.control.ToMyInfo</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ToBookList</servlet-name>
+    <servlet-class>com.guaishushu.control.ToBookList</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UserDeal</servlet-name>
+    <servlet-class>com.guaishushu.control.UserDeal</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ToForgetPwd</servlet-name>
+    <servlet-class>com.guaishushu.control.ToForgetPwd</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>CheckCode</servlet-name>
+    <servlet-class>com.guaishushu.common.CheckCode</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ToBookView</servlet-name>
+    <servlet-class>com.guaishushu.control.ToBookView</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>BookDeal</servlet-name>
+    <servlet-class>com.guaishushu.control.BookDeal</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ToConfirm</servlet-name>
+    <servlet-class>com.guaishushu.control.ToConfirm</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ToFinish</servlet-name>
+    <servlet-class>com.guaishushu.control.ToFinish</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ToPayWay</servlet-name>
+    <servlet-class>com.guaishushu.control.ToPayWay</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ToShowOrder</servlet-name>
+    <servlet-class>com.guaishushu.control.ToShowOrder</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>OrderDeal</servlet-name>
+    <servlet-class>com.guaishushu.control.OrderDeal</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ToShowMyEvaluate</servlet-name>
+    <servlet-class>com.guaishushu.control.ToShowMyEvaluate</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ToEvaluateBook</servlet-name>
+    <servlet-class>com.guaishushu.control.ToEvaluateBook</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>EvaluateDeal</servlet-name>
+    <servlet-class>com.guaishushu.service.EvaluateDeal</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ToShowBookEvaluate</servlet-name>
+    <servlet-class>com.guaishushu.control.ToShowBookEvaluate</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>BookListDeal</servlet-name>
+    <servlet-class>com.guaishushu.service.BookListDeal</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>SearchDeal</servlet-name>
+    <servlet-class>com.guaishushu.service.SearchDeal</servlet-class>
+  </servlet>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <servlet-mapping>
+    <servlet-name>ToIndex</servlet-name>
+    <url-pattern>/ToIndex</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ToLogin</servlet-name>
+    <url-pattern>/ToLogin</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UserCheck</servlet-name>
+    <url-pattern>/UserCheck</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ToRegister</servlet-name>
+    <url-pattern>/ToRegister</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ToShopCar</servlet-name>
+    <url-pattern>/ToShopCar</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ToMyInfo</servlet-name>
+    <url-pattern>/ToMyInfo</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ToBookList</servlet-name>
+    <url-pattern>/ToBookList</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UserDeal</servlet-name>
+    <url-pattern>/UserDeal</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ToForgetPwd</servlet-name>
+    <url-pattern>/ToForgetPwd</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>CheckCode</servlet-name>
+    <url-pattern>/CheckCode</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ToBookView</servlet-name>
+    <url-pattern>/ToBookView</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>BookDeal</servlet-name>
+    <url-pattern>/BookDeal</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ToConfirm</servlet-name>
+    <url-pattern>/ToConfirm</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ToFinish</servlet-name>
+    <url-pattern>/ToFinish</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ToPayWay</servlet-name>
+    <url-pattern>/ToPayWay</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ToShowOrder</servlet-name>
+    <url-pattern>/ToShowOrder</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>OrderDeal</servlet-name>
+    <url-pattern>/OrderDeal</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ToShowMyEvaluate</servlet-name>
+    <url-pattern>/ToShowMyEvaluate</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ToEvaluateBook</servlet-name>
+    <url-pattern>/ToEvaluateBook</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>EvaluateDeal</servlet-name>
+    <url-pattern>/EvaluateDeal</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ToShowBookEvaluate</servlet-name>
+    <url-pattern>/ToShowBookEvaluate</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>BookListDeal</servlet-name>
+    <url-pattern>/BookListDeal</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>SearchDeal</servlet-name>
+    <url-pattern>/SearchDeal</url-pattern>
+  </servlet-mapping>
+
+</web-app>
